@@ -6,7 +6,6 @@ Section: A02
 Mentor: Dr. Rajesh Gupta
 
 
-
 ## 1. What is the most interesting topic covered in your domain this quarter?  
 The topic that I found the most interesting was how approximate arithmetic, such as the L-Mul algorithm, can significantly reduce the hardware computation cost while still achieving competitive accuracy of the model. It was interesting how this topic compared the trade-off of numerical precision, efficiency, and downstream ML performance, all of which contributed to a relationship between the hardware design and machine learning outcome. I was surprised by the fact that everything is really centered around optimization. The L-Mul algorithm was a unique way of finding that optimization compared to what I would typically look at for optimization or what I've covered in class and that is why exploring this new area was very eye-opening.
 
